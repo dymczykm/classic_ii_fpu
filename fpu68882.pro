@@ -1,0 +1,1 @@
+/home/dymczykm/kicad/mac_classic_ii_fpu/fpu68882/fpu68882.pro
