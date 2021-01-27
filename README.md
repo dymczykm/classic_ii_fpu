@@ -17,7 +17,8 @@ When using an external 40 MHz oscillator, the Floating Point result goes up even
 
 ### Order a PCB
 
-If you want to order a PCB directly, I have created a model on PCBWay:
+If you want to order a PCB directly, I have created a project on PCBWay:
+https://www.pcbway.com/project/shareproject/Macintosh_Classic_II_FPU_card.html
 
 
 ### Bill of Materials
