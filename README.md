@@ -32,7 +32,7 @@ https://www.pcbway.com/project/shareproject/Macintosh_Classic_II_FPU_card.html
 | 5   | 100nF X7R       | SMD capacitor      | 0805                 | C1-C5                                                  |                               | 
 | 1   | 10uF 10V        | Tantalum Cap       | A (3216)             | C6                                                     | 399-4788-1-ND                 | 
 | 1   | 51 ohm          | SMD resistor       | 0805                 | R1                                                     |                               | 
-| 1   | 40 MHz          | Crystal oscillator | DIP-8                | X1                                                     |                               | 
+| 1   | 40 MHz          | Crystal oscillator | DIP-8                | X1                                                     | e.g. MXO45HS-2C-40M000000     | 
 
 (sorry, I had most components at hand, so I only have Digikey references for the rather specific ones)
 
