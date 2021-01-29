@@ -26,13 +26,14 @@ https://www.pcbway.com/project/shareproject/Macintosh_Classic_II_FPU_card.html
 | Qty | Value           | Device             | Package              | Parts                                                  | Digikey reference             | 
 |-----|-----------------|--------------------|----------------------|--------------------------------------------------------|-------------------------------|
 | 1   |                 | MC68882FN40A       | PLCC68               | IC1                                                    |                               | 
-| 1   |                 | PLCC68 socket      | PLCC68               | IC1                                                    |                               | 
+| 1   |                 | PLCC68 socket      | PLCC68               | hosts IC1                                              | 2057-PLCC-68-AT-ND            | 
 | 1   |                 | TE 5-532955-8      |                      | J1                                                     | A34313-ND                     | 
 | 1   |                 | Pin Header 2.54mm  | 3 pins               | J2                                                     |                               |
-| 5   | 100nF X7R       | SMD capacitor      | 0805                 | C1-C5                                                  |                               | 
+| 5   | 100nF X7R       | SMD capacitor      | 0805                 | C1-C5                                                  | 399-17169-6-ND                | 
 | 1   | 10uF 10V        | Tantalum Cap       | A (3216)             | C6                                                     | 399-4788-1-ND                 | 
-| 1   | 51 ohm          | SMD resistor       | 0805                 | R1                                                     |                               | 
+| 1   | 51 ohm          | SMD resistor       | 0805                 | R1                                                     | A126374CT-ND                  | 
 | 1   | 40 MHz          | Crystal oscillator | DIP-8                | X1                                                     | e.g. MXO45HS-2C-40M000000     | 
+| 1   |                 | Shunt jumper       |                      | over J2                                                | 881545-1                      | 
 
 (sorry, I had most components at hand, so I only have Digikey references for the rather specific ones)
 
@@ -44,6 +45,8 @@ https://www.pcbway.com/project/shareproject/Macintosh_Classic_II_FPU_card.html
 
 ![FPU installed](img/IMG_3247.jpg)
 
-### References
+### References and Credits
 
 The MC68000 KiCAD library from https://dev.sigpipe.me/DashieElectronics/Jackalope
+
+Thanks to [pfuentes69](https://github.com/pfuentes69) for providing the missing Digikey PNs.
