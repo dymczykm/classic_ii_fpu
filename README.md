@@ -29,7 +29,7 @@ https://www.pcbway.com/project/shareproject/Macintosh_Classic_II_FPU_card.html
 | 1   |                 | PLCC68 socket      | PLCC68               | hosts IC1                                              | 2057-PLCC-68-AT-ND            | 
 | 1   |                 | TE 5-532955-8      |                      | J1                                                     | A34313-ND                     | 
 | 1   |                 | Pin Header 2.54mm  | 3 pins               | J2                                                     |                               |
-| 5   | 100nF X7R       | SMD capacitor      | 0805                 | C1-C5                                                  | 399-17169-6-ND                | 
+| 6   | 100nF X7R       | SMD capacitor      | 0805                 | C1-C5, C7                                              | 399-17169-6-ND                | 
 | 1   | 10uF 10V        | Tantalum Cap       | A (3216)             | C6                                                     | 399-4788-1-ND                 | 
 | 1   | 51 ohm          | SMD resistor       | 0805                 | R1                                                     | A126374CT-ND                  | 
 | 1   | 40 MHz          | Crystal oscillator | DIP-8                | X1                                                     | e.g. MXO45HS-2C-40M000000     | 
